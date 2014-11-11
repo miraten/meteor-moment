@@ -5,5 +5,5 @@ Tinytest.add('Moment can be initalized', function (test) {
 });
 
 Tinytest.add('Moment version is correct', function (test) {
-  test.equal(moment.version, "2.8.1", 'moment version was not correct');
+  test.equal(moment.version, "2.8.3", 'moment version was not correct');
 });
